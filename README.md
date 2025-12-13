@@ -1,14 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Covered+By+Your+Grace&size=40&pause=1000&color=1DF744&width=435&lines=Hello+There!)](https://git.io/typing-svg)
-================================================================================================================================
-
-Currently a CSIE student in NCKU. Still learning some basic things, but found myself pretty intersting in cybersecurity. Aims to learn more about it in the near future.
+Narcisal here!
+Currently a CSIE student in NCKU. Still learning, but found myself intersting in cybersecurity. Aims to learn more about it in the near future.
 
 *   🌍  I'm based in Taiwan
 *   ✉️  You can contact me at [narcisal99325@gmail.com](mailto:narcisal99325@gmail.com)
-*   ⚡  muic makes me HHHAAAPPPPYY!!!### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                    </p>
                     
 ### Socials
 
