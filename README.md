@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Narcisal
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Covered+By+Your+Grace&size=40&pause=1000&color=1DF744&width=435&lines=Hello+There!)](https://git.io/typing-svg)
 ================================================================================================================================
 
 Currently a CSIE student in NCKU. Still learning some basic things, but found myself pretty intersting in cybersecurity. Aims to learn more about it in the near future.
